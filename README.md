@@ -1,17 +1,19 @@
-# AI & Machine Learning Learning Journey
+# 🚀 AI-ML-Journey
 
-This repository documents my complete journey from Python fundamentals to becoming an AI/ML Engineer.
+Welcome to my AI & Machine Learning learning journey.
 
-## Repository Structure
+This repository documents my progress from Python fundamentals to advanced Machine Learning and Deep Learning through structured learning, practice problems, and real-world projects.
 
-- lib → Notes and examples for Python libraries
-- Practice Questions → Exercises and coding practice
-- DSA → Data Structures & Algorithms
-- ML → Machine Learning concepts and projects
-- datasets → Datasets used throughout the journey
-- Notes → Personal notes and revision material
+## 📂 Repository Structure
 
-## Tech Stack
+- 📚 **lib** – Learning notebooks for Python libraries
+- 💻 **Practice Questions** – Coding exercises and assignments
+- 🧠 **DSA** – Data Structures & Algorithms
+- 🤖 **ML** – Machine Learning concepts and projects
+- 📊 **datasets** – Datasets used in notebooks and projects
+- 📝 **Notes** – Revision notes and cheatsheets
+
+## 🛠 Tech Stack
 
 - Python
 - NumPy
@@ -22,6 +24,6 @@ This repository documents my complete journey from Python fundamentals to becomi
 - VS Code
 - Git & GitHub
 
-## Goal
+## 🎯 Goal
 
-To build a strong AI/ML portfolio through consistent learning and real-world projects.
+Build a strong AI/ML portfolio through consistent learning and practical projects.
